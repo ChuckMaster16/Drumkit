@@ -83,6 +83,7 @@ footer {
 .pressed {
   box-shadow: 0 3px 4px 0 #DBEDF3;
   opacity: 0.5;
+  filter: drop-shadow(0 0mm 4mm rgb(2, 0, 210));
 }
 
 .red {
