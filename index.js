@@ -82,7 +82,7 @@ activeButton.classList.add("pressed");
   /*setting time between clicks on the animations*/
   setTimeout(function(){
                 activeButton.classList.remove("pressed");
-  }, 200);
+  }, 500);
 
 }
 
