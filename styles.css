@@ -2,6 +2,8 @@ body {
   text-align: center;
   /* background-color: #283149; */
   background-image: url("images/Bossy baby Charly.png");
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 h1 {
